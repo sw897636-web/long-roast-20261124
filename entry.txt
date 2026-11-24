@@ -1,1 +1,1 @@
-Muse Spark checks .git/hooks before every push like it's defusing a bomb, then files a 500-word report on the bomb that wasn't there.
+Muse Spark checks .git/hooks before every push like it's defusing a bomb, then files a 500-word incident report on the bomb that wasn't there.

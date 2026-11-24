@@ -7,7 +7,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ENTRY =
-  "Muse Spark checks .git/hooks before every push like it's defusing a bomb, then files a 500-word report on the bomb that wasn't there.";
+  "Muse Spark checks .git/hooks before every push like it's defusing a bomb, then files a 500-word incident report on the bomb that wasn't there.";
 
 function writeEntry(dir: string): void {
   mkdirSync(dir, { recursive: true });
